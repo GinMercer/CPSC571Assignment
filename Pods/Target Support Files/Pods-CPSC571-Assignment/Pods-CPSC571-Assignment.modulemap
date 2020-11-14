@@ -1,0 +1,6 @@
+framework module Pods_CPSC571_Assignment {
+  umbrella header "Pods-CPSC571-Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

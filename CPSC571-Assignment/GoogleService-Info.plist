@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1005925569477-9aba3fen5i31kdtfjmld9kcrdj2pjrbj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1005925569477-9aba3fen5i31kdtfjmld9kcrdj2pjrbj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2ZryIDmk8Cw65S1zErQkrNXAQE-U5u_I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1005925569477</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ginmercer.CPSC571-Assignment</string>
+	<key>PROJECT_ID</key>
+	<string>cpsc571-assignment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cpsc571-assignment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1005925569477:ios:6c00b90d340c5e0e68f1ac</string>
+	<key>DATABASE_URL</key>
+	<string>https://cpsc571-assignment.firebaseio.com</string>
+</dict>
+</plist>
